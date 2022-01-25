@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Github Branch Source trait to inherit the revision to build from an upstream job, if present.
+</div>
